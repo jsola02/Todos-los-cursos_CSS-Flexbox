@@ -1,0 +1,30 @@
+.contenedor {
+  width: 80%;
+  height: 700px;
+  background: #ff5c29;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: row;
+}
+
+.hijo1 {
+  background: #00bc29;
+  width: 200px;
+  height: 100px;
+  color: aliceblue;
+  margin: 30px;
+  padding: 20px;
+  font-size: 26px;
+  text-align: center;
+
+}
+
+.hijo1 {
+  text-align: start;
+  text-align: end;
+  text-align: justify;
+  text-align: left;
+  text-align: right;
+  display: flex;
+
+}
