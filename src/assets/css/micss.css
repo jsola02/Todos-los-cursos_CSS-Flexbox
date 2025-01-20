@@ -1,30 +1,54 @@
 .contenedor {
-  width: 80%;
-  height: 700px;
+  width: 95%;
+  height: 600px;
   background: #ff5c29;
   margin: 50px auto;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  align-content: stretch;
 }
 
 .hijo1 {
   background: #00bc29;
-  width: 200px;
-  height: 100px;
+  width: 50px;
   color: aliceblue;
   margin: 30px;
   padding: 20px;
   font-size: 26px;
   text-align: center;
 
+
 }
 
-.hijo1 {
-  text-align: start;
+.hijo2 {
+
   text-align: end;
   text-align: justify;
   text-align: left;
   text-align: right;
-  display: flex;
+  text-align: start;
+  background: #00bc29;
+  margin: 30px;
+  padding: 20px;
+  font-size: 26px;
+  text-align: center;
+
+
+}
+
+.hijo3 {
+  height: 60px;
+  text-align: end;
+  text-align: justify;
+  text-align: left;
+  text-align: right;
+  text-align: start;
+  background: #00bc29;
+  margin: 30px;
+  padding: 20px;
+  font-size: 26px;
+  text-align: center;
+
 
 }
