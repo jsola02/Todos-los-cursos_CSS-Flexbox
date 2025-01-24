@@ -1,14 +1,16 @@
-# Ignorar node_modules
-	node_modules/
-	# Ignorar archivos de entorno
-	.env
-	.env.local
-	# Archivos de salida o build
-	dist/
-	build/
-	# Archivos de configuración del editor
-	.vscode/
-	.idea/	
-	# Sistemas operativos
-	.DS_Store
-	Thumbs.db
+# Node dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
