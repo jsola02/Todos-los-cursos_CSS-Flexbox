@@ -11,13 +11,14 @@
 
 .hijo1 {
   background: #046d1a;
-  /*  width: 100px; */
-  height: 100px;
+  width: 150px;
+  /* height: 100px; */
   color: aliceblue;
-  margin: 30px;
-  padding: 20px;
-  font-size: 26px;
+  /* margin: 30px;
+  padding: 20px; */
+  font-size: 18px;
   text-align: center;
+  flex-grow: 1;
 
 
 
@@ -26,7 +27,7 @@
 .hijo2 {
   background: #046d1a;
   /*   width: 100px; */
-  height: 100px;
+  /* height: 100px; */
   color: aliceblue;
   margin: 30px;
   padding: 20px;
