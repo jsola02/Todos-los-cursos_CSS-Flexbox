@@ -1,9 +1,18 @@
+# Node dependencies
+node_modules
+
+  node_modules/
+	
 # Logs
-	logs
-	*.log	
-	
-	# Dependency directories
-	node_modules
-	
-	# dotenv environment variable files
-	.env
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
