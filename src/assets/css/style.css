@@ -1,8 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
 .container {
-  background: #313131;
-  display: inline-flex;
+  background: #030303;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  align-items: baseline;
 }
 
 .item {
-  background: #535353;
+  width: 20%;
+  background: #6a6868;
+  border: medium solid #a63232;
+}
+
+.item:nth-child(2) {
+  font-size: 1.8rem;
 }
