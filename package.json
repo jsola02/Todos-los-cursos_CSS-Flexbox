@@ -1,0 +1,18 @@
+{
+  "name": "flexbox-css3-_alexdessing",
+  "version": "1.0.0",
+  "description": "Curso \"FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO\" de ordan Alexander (Udemy)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^6.0.11"
+  }
+}
