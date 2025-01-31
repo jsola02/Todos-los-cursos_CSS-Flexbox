@@ -1,7 +1,7 @@
 {
-  "name": "flexbox-css3-_alexdessing",
+  "name": "Cursos-CSS-flexbox",
   "version": "1.0.0",
-  "description": "Curso \"FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO\" de ordan Alexander (Udemy)",
+  "description": "Curso \"CSS FLEXBOX\" varios Autores",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
