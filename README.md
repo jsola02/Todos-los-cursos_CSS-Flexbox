@@ -1,28 +1,65 @@
 # Varios Cursos Tutoriales de CSS FlexBox
-Compilacion de Varios cursos y tutoriales de Flexbox, para obtener conocimiento y practica. 
-El propositos es poder realizar varas landing page y componentes para agregar al Portafolio. 
+
+## Tabla de Contenidos
+
+- [Introduccion](#introducción)
+  - [Lista de Cursos](#cursos)
+- [Instalacion Y Uso](#instalación)
+- [Contribucion](#contribución)
+- [Licencia](#licencia)
+
+## Introducción
+
+Este proyecto conta de varios cursos y tutoriales de CSS Flexbox, de diferentes autores y medios como, Youtube, Udemy. Escuela It, EDTeam, etc.
+
+El propositos es adquirir los fundamentos de CSS flexbox, realizando los videos y practicas, para posteriormente aplicarlo en landingpage y componentes para agregar al Portafolio.
+
 Ademas de desafios de "frontendmentor" en https://www.frontendmentor.io
 
+### Cursos
 
-## FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO
+- [FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO | AlexCGDesing](#FLEXBOX)
+- [Curso flexbox CSS | Jonmirch](#Curso_Flexbox-CSS_jonmircha)
+- [Creando web con flexbox | Bluuweb](#Curso_Creando-web-con-flexbox_Bluuweb)
+- [lorem](#lorem)
 
-Curso "FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO" de Jordan Alexander - AlexCGDesing (Udemy)
+  #### FLEXBOX(CSS3)
 
-Link Playlist
-https://www.udemy.com/course/cursoflexbox/
+  Curso "FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO" de Jordan Alexander - AlexCGDesing (Udemy)
 
-## Curso_Flexbox-CSS_jonmircha
+  Link Playlist
+  https://www.udemy.com/course/cursoflexbox/
 
-Curso "Curso flexbox CSS" de jonmircha (Youtube)
+  #### Curso_Flexbox-CSS_jonmircha
 
-Link Playlist
-https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys
+  Curso "Curso flexbox CSS" de jonmircha (Youtube)
 
-## Curso_Creando-web-con-flexbox_Bluuweb
+  Link Playlist
+  https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys
 
-Curso de "Creando web con flexbox" de Bluuweb
+  #### Curso_Creando-web-con-flexbox_Bluuweb
 
-Link Playlist, inicia video 18
-https://www.youtube.com/watch?v=DW5FrVb6zJ4&list=PLPl81lqbj-4LGQgD3f0WPIol1RT8fML3u
+  Curso de "Creando web con flexbox" de Bluuweb
 
-### curso dejado en pausa para obtener mas detalles y profundizar fundamentos de flexbox
+  Link Playlist, inicia video 18
+  https://www.youtube.com/watch?v=DW5FrVb6zJ4&list=PLPl81lqbj-4LGQgD3f0WPIol1RT8fML3u
+
+  _pd: curso dejado en pausa para obtener mas detalles y profundizar fundamentos de flexbox_
+
+## Instalacion
+
+Descargue desde GitHub
+
+`git clone https://github.com/jsola02/Curso_CSS-Flexbox.git`
+
+abrir proyecto, windows
+
+`cd Curso_CSS-Flexbox`
+
+instalar paquetes requeridos de npm (node_modelues)
+
+`npm install`
+
+ejecutar el proyecto
+
+`npm run dev`
