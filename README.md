@@ -2,10 +2,9 @@
 
 ## FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO
 
-Curso "FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO" de ordan Alexander (Udemy)
+Curso "FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO" de Jordan Alexander - AlexCGDesing (Udemy)
 
 Link Playlist
-
 https://www.udemy.com/course/cursoflexbox/
 
 ## Curso_Flexbox-CSS_jonmircha
@@ -13,11 +12,13 @@ https://www.udemy.com/course/cursoflexbox/
 Curso "Curso flexbox CSS" de jonmircha (Youtube)
 
 Link Playlist
-
 https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys
 
 ## Curso_Creando-web-con-flexbox_Bluuweb
 
 Curso de "Creando web con flexbox" de Bluuweb
+
+Link Playlist, inicia video 18
+https://www.youtube.com/watch?v=DW5FrVb6zJ4&list=PLPl81lqbj-4LGQgD3f0WPIol1RT8fML3u
 
 ### curso dejado en pausa para obtener mas detalles y profundizar fundamentos de flexbox
