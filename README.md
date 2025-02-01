@@ -1,4 +1,8 @@
 # Varios Cursos Tutoriales de CSS FlexBox
+Compilacion de Varios cursos y tutoriales de Flexbox, para obtener conocimiento y practica. 
+El propositos es poder realizar varas landing page y componentes para agregar al Portafolio. 
+Ademas de desafios de "frontendmentor" en https://www.frontendmentor.io
+
 
 ## FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO
 
