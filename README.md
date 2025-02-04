@@ -46,6 +46,13 @@ Ademas de desafios de "frontendmentor" en https://www.frontendmentor.io
 
   _pd: curso dejado en pausa para obtener mas detalles y profundizar fundamentos de flexbox_
 
+  #### Curso_Taller-Práctico-de-Flexbox-en-el-Diseño-Web
+
+  Curso "Taller Práctico de Flexbox en el Diseño Web" de Escuela IT
+
+  Link Playlist
+  https://escuela.it/cursos/taller-practico-de-flexbox-en-el-diseno-web
+
 ## Instalacion
 
 Descargue desde GitHub

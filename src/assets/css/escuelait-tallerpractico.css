@@ -6,17 +6,31 @@
 
 .container {
   background: #282727;
-
   display: flex;
+
+  flex-direction: column-reverse;
+  flex-direction: column;
+
+  flex-direction: row;
+  flex-direction: row-reverse;
+
+  flex-wrap: wrap-reverse;
+  flex-wrap: wrap;
+
+
+
+
 }
 
 .item {
   background: #4a4949;
   outline: 2px solid rgb(22, 120, 22);
-  flex-grow: 1;
-  /*  ocupa el espacion sobrante */
-  flex-shrink: 0;
-  /*  establece el tamaño minimo, espacio sobrante; */
+  /* flex-grow: 1; */
+  /* flex-grow: 1,   ocupa el espacion sobrante */
+  /*   flex-shrink: 0; */
+  /*  flex-shrink: 0, establece el tamaño minimo, espacio sobrante; */
   flex-basis: auto;
+  width: 250px;
+  height: 50px;
 
 }
