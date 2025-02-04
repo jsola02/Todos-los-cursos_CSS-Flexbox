@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background: #282727;
+
+  display: flex;
+}
+
+.item {
+  background: #4a4949;
+  outline: 2px solid rgb(22, 120, 22);
+  flex-grow: 1;
+  /*  ocupa el espacion sobrante */
+  flex-shrink: 0;
+  /*  establece el tamaño minimo, espacio sobrante; */
+  flex-basis: auto;
+
+}
