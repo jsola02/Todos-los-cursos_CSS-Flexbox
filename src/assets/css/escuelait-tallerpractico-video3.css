@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(53, 211, 53);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid white;
+  margin: 10px 0;
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+[class^="col"] {
+  padding: 15px;
+  background: rgb(144, 49, 17);
+  flex: 0 0 auto;
+  margin: 5px;
+
+}
+
+.col-12 {
+  flex-grow: 1;
+  flex-basis: 0;
+  max-width: 100%;
+
+}
+
+.col-1 {
+  flex-basis: 8.333%;
+  min-width: 50px;
+  max-width: 8.333%;
+}
+
+.col-6 {
+  flex-basis: 100%;
+  max-width: 100%;
+
+}
+
+@media (min-width:400px) {
+  .col-6 {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+.right {
+  justify-content: end;
+}
+
+.left {
+  justify-content: start;
+}
+
+.center {
+  justify-content: center;
+}
