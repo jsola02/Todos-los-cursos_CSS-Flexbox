@@ -5,13 +5,26 @@
 }
 
 .main {
+  font-family: sans-serif;
   height: 100vh;
+  width: 95%;
+  flex-wrap: wrap;
+
   display: flex;
-  flex-flow: column wrap;
   align-items: center;
   justify-content: center;
-  font-family: sans-serif;
 
+
+
+}
+
+.cursos {
+  justify-content: center;
+
+}
+
+.practicas {
+  justify-content: center;
 }
 
 .titulo {
@@ -20,7 +33,8 @@
   justify-content: center;
 }
 
-.container {
+
+.nav {
   /*  width: 400px; */
   /* max-width: 600px; */
   margin: 20px auto;
@@ -31,9 +45,11 @@
   column-gap: 7px;
 }
 
-.container a {
+.nav a {
   text-decoration: none;
 }
+
+
 
 .item {
   /* width: 100px;*/
@@ -60,4 +76,10 @@
 
 .item4 {
   background: #ab43f5;
+}
+
+.submenu__practica {
+  list-style-type: none;
+  height: 40px;
+
 }

@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background: #282727;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.face {
+  margin: 16px;
+  padding: 10px;
+  background: #3b87cf;
+  width: 104px;
+  height: 104px;
+  border-radius: 10%;
+  outline: 2px solid rgb(22, 120, 22);
+
+
+}
+
+[class$="face"] {
+  display: flex;
+}
+
+/* un punto */
+
+.first-face {
+  align-items: center;
+  justify-content: center;
+}
+
+
+/*   dos puntos */
+.second-face {
+  justify-content: space-between;
+}
+
+.second-face .pip:nth-child(2) {
+  background: darkmagenta;
+  align-self: self-end;
+}
+
+/*     tres puntos */
+.third-face {
+  display: flex;
+  justify-content: space-between;
+}
+
+.third-face .pip:nth-of-type(2) {
+  background: rgb(245, 120, 48);
+  display: flex;
+
+  align-self: center;
+}
+
+.third-face .pip:nth-child(3) {
+  background: darkorange;
+  display: flex;
+  align-self: end;
+}
+
+/*     Cuatro puntos */
+.column {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fourth-face {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+.fifth-face {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.fifth-face .column:nth-child(2) {
+  justify-content: center;
+}
+
+.sixth-face {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+
+
+
+.pip {
+  display: flex;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: darkred;
+
+
+}
