@@ -5,6 +5,10 @@
 }
 
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   background: rgb(53, 211, 53);
 }
 
@@ -14,15 +18,16 @@ body {
   border: 1px solid white;
   margin: 10px 0;
   padding: 20px;
-  max-width: 900px;
-  margin: 0 auto;
+  max-width: 700px;
+  background: darkgray;
 }
 
 [class^="col"] {
   padding: 15px;
   background: rgb(144, 49, 17);
   flex: 0 0 auto;
-  margin: 5px;
+  outline: 2px solid black;
+
 
 }
 
@@ -45,13 +50,16 @@ body {
 
 }
 
-@media (min-width:400px) {
+@media (min-width: 480px) {
   .col-6 {
     flex-basis: 50%;
     max-width: 50%;
   }
 }
 
+
+
+/* 
 .right {
   justify-content: end;
 }
@@ -62,4 +70,46 @@ body {
 
 .center {
   justify-content: center;
+}
+
+.curso {
+  display: flex;
+
+} */
+
+button {
+  background: darkorchid;
+  border: 0;
+  font-size: 1.5em;
+  padding: 0.2em 0.5em;
+
+}
+
+
+
+@media (min-width: 480px) {
+  .curso {
+    display: flex;
+    background: darkorange;
+  }
+
+  .description {
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .action {
+    align-self: flex-end;
+  }
+
+  .curso button {
+    min-width: 80px;
+  }
+
+  .figure {
+    display: inline;
+
+  }
 }
