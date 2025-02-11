@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+nav.items {
+  width: 26rem;
+
+
+
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  list-style-type: none;
+  font-weight: 500;
+  text-decoration: none;
+  list-style-type: none;
+  background: lightgrey;
+  padding: 1em;
+  margin: 3px 0;
+
+
+}
+
+
+.total {
+  background: silver;
+  margin: 3em 0 auto;
+  padding: 1em;
+  border-bottom: 3px solid white;
+  border-left: 3px solid rgb(39, 39, 39);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.literal {
+
+
+  color: dimgrey;
+  text-transform: uppercase;
+
+}
+
+.amount {
+  color: olive;
+  font-size: xx-large;
+
+  span {
+    font-size: medium;
+  }
+}

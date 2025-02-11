@@ -1,5 +1,5 @@
 {
-  "name": "Cursos-CSS-flexbox",
+  "name": "cursos-css-flexbox",
   "version": "1.0.0",
   "description": "Curso \"CSS FLEXBOX\" varios Autores",
   "main": "index.js",
@@ -14,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "vite": "^6.0.11"
+  },
+  "devDependencies": {
+    "sass": "^1.84.0"
   }
 }
