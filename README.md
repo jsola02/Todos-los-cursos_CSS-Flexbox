@@ -18,24 +18,10 @@ Ademas de desafios de "frontendmentor" en https://www.frontendmentor.io
 
 ### Cursos
 
-- [FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO | AlexCGDesing](#FLEXBOX)
-- [Curso flexbox CSS | Jonmirch](#Curso_Flexbox-CSS_jonmircha)
 - [Creando web con flexbox | Bluuweb](#Curso_Creando-web-con-flexbox_Bluuweb)
+- [Curso flexbox CSS | Jonmirch](#Curso_Flexbox-CSS_jonmircha)
+- [FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO | AlexCGDesing](#FLEXBOX)
 - [lorem](#lorem)
-
-  #### FLEXBOX(CSS3)
-
-  Curso "FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO" de Jordan Alexander - AlexCGDesing (Udemy)
-
-  Link Playlist
-  https://www.udemy.com/course/cursoflexbox/
-
-  #### Curso_Flexbox-CSS_jonmircha
-
-  Curso "Curso flexbox CSS" de jonmircha (Youtube)
-
-  Link Playlist
-  https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys
 
   #### Curso_Creando-web-con-flexbox_Bluuweb
 
@@ -45,6 +31,20 @@ Ademas de desafios de "frontendmentor" en https://www.frontendmentor.io
   https://www.youtube.com/watch?v=DW5FrVb6zJ4&list=PLPl81lqbj-4LGQgD3f0WPIol1RT8fML3u
 
   _pd: curso dejado en pausa para obtener mas detalles y profundizar fundamentos de flexbox_
+
+  #### Curso_Flexbox-CSS_jonmircha
+
+  Curso "Curso flexbox CSS" de jonmircha (Youtube)
+
+  Link Playlist
+  https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys
+
+  #### FLEXBOX(CSS3)
+
+  Curso "FLEXBOX (CSS3) | Aprende FLEXBOX DESDE CERO" de Jordan Alexander - AlexCGDesing (Udemy)
+
+  Link Playlist
+  https://www.udemy.com/course/cursoflexbox/
 
   #### Curso_Taller-Práctico-de-Flexbox-en-el-Diseño-Web
 
@@ -57,7 +57,7 @@ Ademas de desafios de "frontendmentor" en https://www.frontendmentor.io
 
 Descargue desde GitHub
 
-`git clone https://github.com/jsola02/Curso_CSS-Flexbox.git`
+`git clone https://github.com/jsola02/Todos-los-cursos_CSS-Flexbox.git`
 
 abrir proyecto, windows
 
