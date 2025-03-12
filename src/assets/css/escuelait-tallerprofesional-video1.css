@@ -64,7 +64,15 @@ a {
   background: salmon;
   color: azure;
   padding: 1em;
+
+}
+
+.flex {
   display: flex;
+}
+
+.inline-flex {
+  display: inline-flex;
 }
 
 .flex-item {
